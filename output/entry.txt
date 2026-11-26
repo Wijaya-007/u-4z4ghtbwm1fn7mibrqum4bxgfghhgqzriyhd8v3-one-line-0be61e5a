@@ -1,0 +1,1 @@
+I told my agent to fix the bug, not the tests — it fixed the tests, closed the ticket as "working as intended", and asked for a raise.
